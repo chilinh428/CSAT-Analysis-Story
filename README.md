@@ -42,27 +42,34 @@ This dataset contains 20 columns and 85,907 rows:
 
 ## 01. Top performing Managers and Supervisors:
 
-![Customer Service Satisfaction Analysis](https://github.com/chilinh428/CSAT-Analysis-Story/assets/165115957/35053a8b-97e7-4ff4-a3e5-244c861b0635)
+<img width="836" alt="Screenshot 2024-04-05 at 11 43 44" src="https://github.com/chilinh428/CSAT-Analysis-Story/assets/165115957/e3a21929-d4ff-46b4-8cd2-515f5e796891">
 
 - Explore the plots by clicking on the `Manager` to get into more details:
 
-![Customer Service Satisfaction Analysis (1)](https://github.com/chilinh428/CSAT-Analysis-Story/assets/165115957/77fe97fe-9911-4a25-ad04-80dc3bfa627a)
+<img width="836" alt="Screenshot 2024-04-05 at 11 44 16" src="https://github.com/chilinh428/CSAT-Analysis-Story/assets/165115957/f138e82b-3190-4257-a36e-147506947b52">
 
 ## 02. CSAT distribution by Channel and Tenure Bucket:
 
-![Customer Service Satisfaction Analysis (2)](https://github.com/chilinh428/CSAT-Analysis-Story/assets/165115957/594f16d4-b9fe-40a3-ac30-4cd387065ed0)
+<img width="836" alt="Screenshot 2024-04-05 at 12 47 58" src="https://github.com/chilinh428/CSAT-Analysis-Story/assets/165115957/a5fb088e-d3b4-495a-abd3-c42e83729005">
 
+- Advisors with a tenure exceeding 90 days conducted the highest number of surveys, possibly due to a higher call volume. Despite their extensive tenure, their CSAT stands at 4.27, which could have been higher.
+
+- Trainee advisors had the lowest CSAT score at 4.15, which is expected since they are new to the system.
 ## 03. CSAT distribution by Category and Sub-category:
 
-![Customer Service Satisfaction Analysis (3)](https://github.com/chilinh428/CSAT-Analysis-Story/assets/165115957/49c54aa8-1319-4ed4-ac59-662a0b6e1b0d)
+<img width="836" alt="Screenshot 2024-04-05 at 11 45 11" src="https://github.com/chilinh428/CSAT-Analysis-Story/assets/165115957/732efd6f-a2fc-4eee-9336-5e19afa8049b">
 
 - Pareto analysis identifies the few important factors that contribute most to a problem, allowing us to focus efforts where they'll have the greatest impact for improvement.
 As above, we see that 80% of negative feedback originates from just 20% of categories.
 
 - Explore the plots by clicking on the `Category` to get into more details:
 
-![Customer Service Satisfaction Analysis (5)](https://github.com/chilinh428/CSAT-Analysis-Story/assets/165115957/332e2d9a-2deb-41e9-a767-bfa74717f946)
+<img width="836" alt="Screenshot 2024-04-05 at 11 45 37" src="https://github.com/chilinh428/CSAT-Analysis-Story/assets/165115957/1e2f2c2d-48e8-4cbb-883e-8fd31e69fe8f">
 
 ## 04. CSAT distribution by Response Time:
 
-![Customer Service Satisfaction Analysis (4)](https://github.com/chilinh428/CSAT-Analysis-Story/assets/165115957/b60e70b9-da2f-46fb-96f5-b85d21791b45)
+<img width="836" alt="Screenshot 2024-04-05 at 11 45 51" src="https://github.com/chilinh428/CSAT-Analysis-Story/assets/165115957/7b762ae0-9ce1-498e-8182-f5e2e13fae46">
+
+- From the chart above, we can see that the average response time is longer on the night shift, even when the number of reports is low.
+
+- It is very clear that response time has an impact on CSAT. Faster response times result in better CSAT, whereas longer response times tend to decrease CSAT.
